@@ -1,0 +1,5776 @@
+{
+  "sourceLanguage" : "zh-Hans",
+  "strings" : {
+    "-" : {
+
+    },
+    "-1" : {
+
+    },
+    "【ICM提示】目前正处于SNG 策略模拟器的泡沫期(3人)，积分的生存价值远大于积分的赢取价值，建议打得更紧一些，尤其是面对大积分玩家时。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[ICM] You are on the SNG Strategy Simulator bubble (3 players). Survival is key. Tighten up, especially against the point leader."
+          }
+        }
+      }
+    },
+    "【位置提示】你在 %@ 位置。在 SNG 策略模拟器前期，深积分可以多打位置优势，避免在不利位置过度下注。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Position] You are in the %@ position. In early SNG Strategy Simulator stages, leverage position and avoid inflating total points out of position."
+          }
+        }
+      }
+    },
+    "【单挑提示】进入Heads-Up阶段，牌值大幅缩水，任何对子或两张高牌都值得激进游戏。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Heads-Up] In HU play, hand values shift. Any pair or two broadway cards should be played aggressively."
+          }
+        }
+      }
+    },
+    "【短筹提示】你目前的积分深度(%@BB)已进入All-in/Fold阶段，寻找机会直接全押而不是平跟。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Short Stack] With %@ BBs, you are in the All-in/Fold zone. Look for shove spots instead of calling."
+          }
+        }
+      }
+    },
+    "加载失败" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to load"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载失败"
+          }
+        }
+      }
+    },
+    "位置" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Position"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "位置"
+          }
+        }
+      }
+    },
+    "前位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Early"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前位"
+          }
+        }
+      }
+    },
+    "中位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Middle"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中位"
+          }
+        }
+      }
+    },
+    "后位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Late"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "后位"
+          }
+        }
+      }
+    },
+    "庄位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Button"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "庄位"
+          }
+        }
+      }
+    },
+    "作死位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Punt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作死位"
+          }
+        }
+      }
+    },
+    "大致倍率关系" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approx. multiplier"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大致倍率关系"
+          }
+        }
+      }
+    },
+    "范围" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Range"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "范围"
+          }
+        }
+      }
+    },
+    "牌型" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hand type"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "牌型"
+          }
+        }
+      }
+    },
+    "组合数" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combos"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "组合数"
+          }
+        }
+      }
+    },
+    "你的起手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的起手牌"
+          }
+        }
+      }
+    },
+    "提高到" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improves to"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提高到"
+          }
+        }
+      }
+    },
+    "到河牌圈提高到" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improves by river to"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "到河牌圈提高到"
+          }
+        }
+      }
+    },
+    "在河牌提高到" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improves on river to"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在河牌提高到"
+          }
+        }
+      }
+    },
+    "在转牌提高到" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improves on turn to"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在转牌提高到"
+          }
+        }
+      }
+    },
+    "翻牌圈你的牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand on the flop"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "翻牌圈你的牌"
+          }
+        }
+      }
+    },
+    "转牌圈你的牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand on the turn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转牌圈你的牌"
+          }
+        }
+      }
+    },
+    "翻牌圈牌面" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flop board"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "翻牌圈牌面"
+          }
+        }
+      }
+    },
+    "起手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting hand"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起手牌"
+          }
+        }
+      }
+    },
+    "概率%" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probability %"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "概率%"
+          }
+        }
+      }
+    },
+    "打开知乎原文" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open original article"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开知乎原文"
+          }
+        }
+      }
+    },
+    "概率表" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odds Charts"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "概率表"
+          }
+        }
+      }
+    },
+    "概率表 %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chart %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "概率表 %lld"
+          }
+        }
+      }
+    },
+    "2 拿到特定起手牌的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Probability of a specific starting hand"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2 拿到特定起手牌的概率"
+          }
+        }
+      }
+    },
+    "1新手玩家的起手牌范围表(9人桌标准常规桌)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Beginner preflop range (9-max)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1新手玩家的起手牌范围表(9人桌标准常规桌)"
+          }
+        }
+      }
+    },
+    "3 你的口袋对面临更大口袋对的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Pocket pair vs higher pocket pair"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 你的口袋对面临更大口袋对的概率"
+          }
+        }
+      }
+    },
+    "4你的口袋对面临超过一个更大口袋对的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4. Pocket pair vs multiple higher pocket pairs"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4你的口袋对面临超过一个更大口袋对的概率"
+          }
+        }
+      }
+    },
+    "5 你拿到Ax时面临对手更好的A的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5. Ax vs a better Ace"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 你拿到Ax时面临对手更好的A的概率"
+          }
+        }
+      }
+    },
+    "6 没有高牌出现在翻牌圈的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6. Probability of no overcards on the flop"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 没有高牌出现在翻牌圈的概率"
+          }
+        }
+      }
+    },
+    "7翻牌圈玩家持有不同牌型的组合数和概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7. Flop hand-type combinations and odds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7翻牌圈玩家持有不同牌型的组合数和概率"
+          }
+        }
+      }
+    },
+    "8河牌圈玩家持有不同牌型的组合数和概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8. River hand-type combinations and odds"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8河牌圈玩家持有不同牌型的组合数和概率"
+          }
+        }
+      }
+    },
+    "9常见起手牌翻牌圈击中不同牌型的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9. Common hands: flop hit probabilities"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9常见起手牌翻牌圈击中不同牌型的概率"
+          }
+        }
+      }
+    },
+    "10 牌力在转牌圈提高的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10. Turn improvement probabilities"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 牌力在转牌圈提高的概率"
+          }
+        }
+      }
+    },
+    "11 牌力在河牌圈提高的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11. River improvement probabilities"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11 牌力在河牌圈提高的概率"
+          }
+        }
+      }
+    },
+    "12 翻牌圈不同牌型到河牌圈提高的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12. Flop-to-river improvement probabilities"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12 翻牌圈不同牌型到河牌圈提高的概率"
+          }
+        }
+      }
+    },
+    "13 翻牌圈公共牌不同结构的概率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13. Flop board texture probabilities"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13 翻牌圈公共牌不同结构的概率"
+          }
+        }
+      }
+    },
+    "来源：知乎文章" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source: Zhihu article"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来源：知乎文章"
+          }
+        }
+      }
+    },
+    "\\(a.amount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(a.amount)"
+          }
+        }
+      }
+    },
+    "\\(current)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(current)"
+          }
+        }
+      }
+    },
+    "\\(gameManager.gameState.total points)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(gameManager.gameState.total points)"
+          }
+        }
+      }
+    },
+    "\\(gameManager.tournamentState.currentBlindLevel.ante)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(gameManager.tournamentState.currentBlindLevel.ante)"
+          }
+        }
+      }
+    },
+    "\\(gameManager.tournamentState.currentBlindLevel.sb)/\\(gameManager.tournamentState.currentBlindLevel.bb)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(gameManager.tournamentState.currentBlindLevel.sb)/\\(gameManager.tournamentState.currentBlindLevel.bb)"
+          }
+        }
+      }
+    },
+    "\\(name) 赢+\\(amount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(name) won +\\(amount)"
+          }
+        }
+      }
+    },
+    "\\(name) 退回+\\(amount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(name) returned +\\(amount)"
+          }
+        }
+      }
+    },
+    "\\(player.points)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(player.points)"
+          }
+        }
+      }
+    },
+    "\\(profit)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(profit)"
+          }
+        }
+      }
+    },
+    "\\(value)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(value)"
+          }
+        }
+      }
+    },
+    "%@ 下注 %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Bets %@"
+          }
+        }
+      }
+    },
+    "%@ 下注 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Bets %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 下注 %lld"
+          }
+        }
+      }
+    },
+    "%@ 全押 %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ All-in %@"
+          }
+        }
+      }
+    },
+    "%@ 全押 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ All-in %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 全押 %lld"
+          }
+        }
+      }
+    },
+    "%@ 加注 %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Raises %@"
+          }
+        }
+      }
+    },
+    "%@ 加注 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Raises %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 加注 %lld"
+          }
+        }
+      }
+    },
+    "%@ 弃牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Folds"
+          }
+        }
+      }
+    },
+    "%@ 思考中..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is thinking..."
+          }
+        }
+      }
+    },
+    "%@ 投入 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Bet %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 下注 %lld"
+          }
+        }
+      }
+    },
+    "%@ 赢+%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wins +%@"
+          }
+        }
+      }
+    },
+    "%@ 赢+%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wins +%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 赢+%lld"
+          }
+        }
+      }
+    },
+    "%@ 跟投 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Call %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 跟注 %lld"
+          }
+        }
+      }
+    },
+    "%@ 跟注 %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Calls %@"
+          }
+        }
+      }
+    },
+    "%@ 跟注 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Calls %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 跟注 %lld"
+          }
+        }
+      }
+    },
+    "%@ 过牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Checks"
+          }
+        }
+      }
+    },
+    "%@ 退回+%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ returned +%@"
+          }
+        }
+      }
+    },
+    "%@ 退回+%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ returned +%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ 退回+%lld"
+          }
+        }
+      }
+    },
+    "%@: %lld" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$lld"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld 人" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 人"
+          }
+        }
+      }
+    },
+    "%lld 场" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Games"
+          }
+        }
+      }
+    },
+    "%lld 次" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Times"
+          }
+        }
+      }
+    },
+    "%lld/%lld" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "+\\(profit)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+\\(profit)"
+          }
+        }
+      }
+    },
+    "+%lld" : {
+
+    },
+    "🏆 冠军: \\(winner.name)！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏆 Winner: \\(winner.name)!"
+          }
+        }
+      }
+    },
+    "🏆 冠军: %@！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏆 Winner: %@!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏆 冠军: %@！"
+          }
+        }
+      }
+    },
+    "🏆 冠军！获得 \\(3) 体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🏆 1st Place! +\\(3) stamina"
+          }
+        }
+      }
+    },
+    "0" : {
+
+    },
+    "1. 本产品为纯单机模拟器，体力值仅用于进行模拟练习。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. This app is a standalone simulator. Stamina is used purely for practice."
+          }
+        }
+      }
+    },
+    "1. 本产品为纯单机模拟器，练习币仅用于模拟器内对局，无任何实际价值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. This product is a pure offline simulator. Practice coins are for in-simulator matches only and have no real-world value."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 本产品为纯单机模拟器，练习币仅用于模拟器内对局，无任何实际价值。"
+          }
+        }
+      }
+    },
+    "1. 本产品为纯粹的德州扑克教学与训练工具，体力值仅作为开启训练的门票消耗。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. This product is strictly a Texas Hold'em educational and training tool. Stamina is only consumed as an entry ticket for training sessions."
+          }
+        }
+      }
+    },
+    "1v1 HU 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1v1 HU Practice"
+          }
+        }
+      }
+    },
+    "2. 每天最多领取5次免费练习币，练习币不可转让，不可兑换现金或实物。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Free practice coins can be claimed up to 5 times per day. They are non-transferable and cannot be exchanged for cash or physical goods."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 每天最多领取5次免费练习币，练习币不可转让，不可兑换现金或实物。"
+          }
+        }
+      }
+    },
+    "2. 每天系统自动恢复至3点体力值，另外每天最多可额外免费领取9点（分3次，每次3点）。训练过程中的盈亏不影响体力值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Stamina automatically restores to 3 points daily. You can also claim up to 9 additional free stamina points per day (3 claims, 3 points each). Winning or losing in training does not affect stamina."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 每天系统自动恢复至3点体力值，另外每天最多可额外免费领取9点（分3次，每次3点）。训练过程中的盈亏不影响体力值。"
+          }
+        }
+      }
+    },
+    "2. 每天系统自动恢复至3点体力值，另外每天最多可额外免费领取300点（分3次，每次100点）。训练过程中的盈亏不影响体力值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Stamina auto-recovers to 3 points daily. You can claim up to 300 free stamina points daily (3 times, 100 points each). Winning or losing in training does not affect stamina."
+          }
+        }
+      }
+    },
+    "2. 每天系统自动恢复至3点体力值，另外每天最多可额外领取9点免费体力值（分3次）。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Stamina automatically restores to 3 points daily. You can also claim up to 9 additional free stamina points per day (in 3 claims)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 每天系统自动恢复至3点体力值，另外每天最多可额外领取9点免费体力值（分3次）。"
+          }
+        }
+      }
+    },
+    "3. 教学工具开发不易，自愿支持开发者一杯咖啡，将获赠1000点体力值以供长期训练，谢谢！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Developing educational tools takes effort. Support the developer with a coffee, and you'll receive 1000 stamina points for long-term training. Thank you!"
+          }
+        }
+      }
+    },
+    "3. 模拟器开发不易，您可以选择自愿支持开发者一杯咖啡，谢谢！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Developing this simulator is hard work. You can optionally support the developer with a cup of coffee. Thank you!"
+          }
+        }
+      }
+    },
+    "3. 模拟器开发不易，请支持开发者一杯咖啡，谢谢！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Developing the simulator is hard work. Please support the developer with a cup of coffee. Thank you!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 模拟器开发不易，请支持开发者一杯咖啡，谢谢！"
+          }
+        }
+      }
+    },
+    "3Bet 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3Bet Practice"
+          }
+        }
+      }
+    },
+    "6人 SNG 策略模拟器" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-Max SNG Strategy Simulator"
+          }
+        }
+      }
+    },
+    "6人 SNG 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-Max SNG Practice"
+          }
+        }
+      }
+    },
+    "AI 初始积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Starting Points"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI 初始积分"
+          }
+        }
+      }
+    },
+    "AI 对手数量" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Opponents"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI 对手数量"
+          }
+        }
+      }
+    },
+    "Bad Beat (运气极差)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bad Beat"
+          }
+        }
+      }
+    },
+    "Bad Beat！你的牌明明领先，却在河牌被反超，不要让情绪影响下一手牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bad Beat! You were clearly ahead but got outdrawn on the river. Don't let it affect your next hand."
+          }
+        }
+      }
+    },
+    "BB" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BB"
+          }
+        }
+      }
+    },
+    "BB \\(player.currentBet)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BB \\(player.currentBet)"
+          }
+        }
+      }
+    },
+    "BB %lld" : {
+
+    },
+    "BTN" : {
+
+    },
+    "C-Bet尺度掌握得很好，保持了对总分的控制权。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good C-Bet sizing, maintaining control over the pot."
+          }
+        }
+      }
+    },
+    "Coco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coco"
+          }
+        }
+      }
+    },
+    "D" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "D"
+          }
+        }
+      }
+    },
+    "Defend 防守盲注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defend Practice"
+          }
+        }
+      }
+    },
+    "Hand %@" : {
+
+    },
+    "Jack" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jack"
+          }
+        }
+      }
+    },
+    "L\\(history.blindLevel) \\(history.sbAmount)/\\(history.bbAmount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L\\(history.blindLevel) \\(history.sbAmount)/\\(history.bbAmount)"
+          }
+        }
+      }
+    },
+    "L%lld %lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L%lld %lld/%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "L%1$lld %2$lld/%3$lld"
+          }
+        }
+      }
+    },
+    "Lan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lan"
+          }
+        }
+      }
+    },
+    "OUT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OUT"
+          }
+        }
+      }
+    },
+    "Player" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player"
+          }
+        }
+      }
+    },
+    "Push/Fold 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push/Fold Practice"
+          }
+        }
+      }
+    },
+    "Rain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rain"
+          }
+        }
+      }
+    },
+    "SB" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SB"
+          }
+        }
+      }
+    },
+    "SB \\(player.currentBet)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SB \\(player.currentBet)"
+          }
+        }
+      }
+    },
+    "SB %lld" : {
+
+    },
+    "SB/BB" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SB/BB"
+          }
+        }
+      }
+    },
+    "SNG 6人桌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNG 6-Max"
+          }
+        }
+      }
+    },
+    "SNG Simulator" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNG Simulator"
+          }
+        }
+      }
+    },
+    "SNG 策略模拟器 6人桌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6-Max SNG Strategy Simulator"
+          }
+        }
+      }
+    },
+    "SNG 训练配置" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNG Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNG 训练配置"
+          }
+        }
+      }
+    },
+    "Steal 偷盲练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steal Practice"
+          }
+        }
+      }
+    },
+    "Zhe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zhe"
+          }
+        }
+      }
+    },
+    "一对" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One Pair"
+          }
+        }
+      }
+    },
+    "三条" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three of a Kind"
+          }
+        }
+      }
+    },
+    "下一局" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next Hand"
+          }
+        }
+      }
+    },
+    "下注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet"
+          }
+        }
+      }
+    },
+    "下注 \\(a.totalBeted)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet \\(a.totalBeted)"
+          }
+        }
+      }
+    },
+    "下注 \\(player.currentBet)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet \\(player.currentBet)"
+          }
+        }
+      }
+    },
+    "下注 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet %lld"
+          }
+        }
+      }
+    },
+    "下注太小了，下次尝试下注满池或3/4池来榨取最大价值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sizing is too small. Consider a larger point-in size (total points or 3/4 total points) next time."
+          }
+        }
+      }
+    },
+    "不该弃牌的强牌" : {
+
+    },
+    "不错的 3Bet 诈唬。面对频繁偷盲的对手，用这手牌反击可以赢下底池。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice 3Bet bluff. Counter-attacking frequent stealers with this hand can win the pot."
+          }
+        }
+      }
+    },
+    "不错的弃牌。面对激进的盲注玩家，放弃边缘牌是合理的。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good fold. Against aggressive blinds, folding marginal hands is reasonable."
+          }
+        }
+      }
+    },
+    "专业练习模式" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro Practice Modes"
+          }
+        }
+      }
+    },
+    "两对" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Two Pair"
+          }
+        }
+      }
+    },
+    "个人主页" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "主页" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "今天" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "今日免费领取次数已达上限" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily free claim limit reached"
+          }
+        }
+      }
+    },
+    "优质牌加注，这才是德扑盈利的根本，保持这样的打法。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raising premium hands is the foundation of winning poker. Keep it up."
+          }
+        }
+      }
+    },
+    "位置优势不能掩盖手牌过弱的事实，遇到大盲位 3-bet 你将毫无还手之力。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Positional advantage doesn't cover for a weak hand. You'll be defenseless against a BB 3-bet."
+          }
+        }
+      }
+    },
+    "位置劣势下拿到垃圾牌，过牌或轻易跟注属于典型的“跟注站”行为。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing trash hands out of position by checking or calling is typical 'calling station' behavior."
+          }
+        }
+      }
+    },
+    "位置越靠后，可操作手牌越宽。按钮位用这手牌偷盲非常标准。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The later your position, the wider your playable range. A button steal with this hand is very standard."
+          }
+        }
+      }
+    },
+    "位置越靠后，可操作手牌越宽。用这手牌偷盲非常标准。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The later your position, the wider your playable range. A steal with this hand is very standard."
+          }
+        }
+      }
+    },
+    "体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stamina"
+          }
+        }
+      }
+    },
+    "体力值: %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stamina: %lld"
+          }
+        }
+      }
+    },
+    "体力值不足" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insufficient Stamina"
+          }
+        }
+      }
+    },
+    "体力值不足，明天可以继续领体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insufficient stamina. You can claim more tomorrow."
+          }
+        }
+      }
+    },
+    "你击中了强牌，但过于保守。尝试加注来保护你的总分并实现价值最大化。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You hit a strong hand but played too passively. Try raising to protect your hand and maximize value."
+          }
+        }
+      }
+    },
+    "你拿着绝对的强牌，不要害怕下大注把对手打跑，薄价值聚沙成塔。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You hold a monster. Don’t be afraid to use a larger sizing—small edges add up over time."
+          }
+        }
+      }
+    },
+    "你损失了盲注的死钱价值。德扑中 70% 的利润来自于后位的偷盲和施压。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You lost dead money value from the blinds. 70% of poker profits come from late-position steals and pressure."
+          }
+        }
+      }
+    },
+    "你损失了盲注的死钱价值。德扑中很大一部分利润来自于偷盲和施压。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You lost out on the dead money in the blinds. A large portion of poker profits comes from stealing and pressuring."
+          }
+        }
+      }
+    },
+    "你放弃了偷盲的机会！你应该用这手牌加注向盲注施压。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You missed a steal opportunity! You should have raised with this hand to pressure the blinds."
+          }
+        }
+      }
+    },
+    "你放弃了偷盲的机会！在后位，你应该用这手牌加注向盲注施压。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You missed a steal opportunity! From late position, you should raise to pressure the blinds."
+          }
+        }
+      }
+    },
+    "你的 3Bet 过于激进。手牌不够强时，面对前位加注进行 3Bet 容易陷入被动或损失筹码。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your 3Bet is too aggressive. 3Betting an early position raise with a weak hand easily leads to tough spots and chip loss."
+          }
+        }
+      }
+    },
+    "你的偷盲范围太宽了。用毫无联系的垃圾牌加注很容易被反击。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your steal range is too wide. Raising with uncoordinated trash hands easily invites counter-attacks."
+          }
+        }
+      }
+    },
+    "你的反击太激进了。用垃圾牌 3Bet 风险过大。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your counter-attack is too aggressive. 3Betting with trash carries excessive risk."
+          }
+        }
+      }
+    },
+    "你防守得太紧了。大盲位有很好的赔率，这手牌值得跟注或 3Bet。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defending too tightly. The BB offers great odds; this hand warrants a call or a 3Bet."
+          }
+        }
+      }
+    },
+    "保存" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "保守但安全的打法。在偷盲位也可以选择性放弃较弱的手牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A conservative but safe play. It's okay to selectively fold weaker hands even in a steal position."
+          }
+        }
+      }
+    },
+    "保持耐心是德扑的核心，过滤掉弱牌是迈向盈利的第一步。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patience is core to poker. Filtering out weak hands is the first step towards profitability."
+          }
+        }
+      }
+    },
+    "修改名字" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Name"
+          }
+        }
+      }
+    },
+    "修改昵称" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Name"
+          }
+        }
+      }
+    },
+    "偷盲位不能掩盖手牌过弱的事实，遇到大盲位 3-bet 你将毫无还手之力。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Being in a steal position doesn't make up for a hand this weak. If the big blind 3-bets, you'll be defenseless."
+          }
+        }
+      }
+    },
+    "免费领取 %@ 积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %@ Points"
+          }
+        }
+      }
+    },
+    "免费领取 %@ 积分 (今日剩余 %@ 次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %@ Points (%@ left today)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 %@ 积分 (今日剩余 %@ 次)"
+          }
+        }
+      }
+    },
+    "免费领取 %lld 体力值 (今日剩余 %lld 次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %lld Free Stamina (%lld times left today)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 %lld 体力值 (今日剩余 %lld 次)"
+          }
+        }
+      }
+    },
+    "免费领取 %lld 积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %lld Points"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 %lld 积分"
+          }
+        }
+      }
+    },
+    "免费领取 %lld 积分 (今日剩余 %lld 次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %1$lld Points (%2$lld left today)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 %1$lld 积分 (今日剩余 %2$lld 次)"
+          }
+        }
+      }
+    },
+    "免费领取 1000 积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim 1000 Points"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 1000 积分"
+          }
+        }
+      }
+    },
+    "免费领取 1000 积分 (今日剩余 %lld 次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim 1000 Points (%lld left today)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 1000 积分 (今日剩余 %lld 次)"
+          }
+        }
+      }
+    },
+    "免费领取\\(economyManager.buyInCoins)练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim \\(economyManager.buyInCoins) Practice Points"
+          }
+        }
+      }
+    },
+    "免费领取%@练习积分 (今日剩余%@次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %@ Practice Points (%@ left today)"
+          }
+        }
+      }
+    },
+    "免费领取%lld练习积分 (今日剩余%lld次)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim %lld Practice Points (%lld left today)"
+          }
+        }
+      }
+    },
+    "免费领取1000积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim 1000 Points"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费领取 1000 积分"
+          }
+        }
+      }
+    },
+    "免费领取体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claim Free Stamina"
+          }
+        }
+      }
+    },
+    "免费领取练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free Practice Points"
+          }
+        }
+      }
+    },
+    "入围率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ITM Rate"
+          }
+        }
+      }
+    },
+    "入围率 (ITM)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ITM Rate"
+          }
+        }
+      }
+    },
+    "入圈率" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ITM Rate"
+          }
+        }
+      }
+    },
+    "入场: \\(record.buyIn)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry: \\(record.buyIn)"
+          }
+        }
+      }
+    },
+    "入场: %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry: %lld"
+          }
+        }
+      }
+    },
+    "入场：\\(record.buyIn)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry：\\(record.buyIn)"
+          }
+        }
+      }
+    },
+    "入场：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry: %lld"
+          }
+        }
+      }
+    },
+    "入场积分: \\(record.buyIn)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry Points: \\(record.buyIn)"
+          }
+        }
+      }
+    },
+    "入场积分: %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry Points: %lld"
+          }
+        }
+      }
+    },
+    "入场积分：\\(record.buyIn)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry Points: \\(record.buyIn)"
+          }
+        }
+      }
+    },
+    "入场积分：%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry Points: %lld"
+          }
+        }
+      }
+    },
+    "全下尺度计算虽然简单，但要结合起手牌质量，这手牌不值得拼命。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shove sizing is simple, but you must consider hand quality. This hand isn't worth risking your tournament life."
+          }
+        }
+      }
+    },
+    "全押" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All-in"
+          }
+        }
+      }
+    },
+    "全押 %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All-in %lld"
+          }
+        }
+      }
+    },
+    "共 \\(count) 手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total \\(count) hands"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共 \\(count) 手牌"
+          }
+        }
+      }
+    },
+    "共 %lld 手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total %lld hands"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共 %lld 手牌"
+          }
+        }
+      }
+    },
+    "关闭" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "冠军次数" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wins"
+          }
+        }
+      }
+    },
+    "出色的加注" : {
+
+    },
+    "利用阻断牌（如含A/K的牌）在大盲位进行 3-bet，能给宽范围偷盲者极大的弃牌压力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using blockers (like A/K) to 3-bet from the BB applies immense fold equity against wide stealers."
+          }
+        }
+      }
+    },
+    "别灰心，从长期概率来看，只要坚持做正EV的决策，你终将获胜。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't be discouraged. In the long run, as long as you make +EV decisions, you will come out a winner."
+          }
+        }
+      }
+    },
+    "前位入池标准太低，应只玩顶级手牌避免后续位置带来的决策压力。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your early position entering standard is too loose. Only play premium hands to avoid pressure from late positions."
+          }
+        }
+      }
+    },
+    "前分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pre-score"
+          }
+        }
+      }
+    },
+    "加注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raise"
+          }
+        }
+      }
+    },
+    "加注 \\(player.currentBet)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raise \\(player.currentBet)"
+          }
+        }
+      }
+    },
+    "加注 %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raise %lld"
+          }
+        }
+      }
+    },
+    "加注到 %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raise to %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加注到 %lld"
+          }
+        }
+      }
+    },
+    "加载中…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading..."
+          }
+        }
+      }
+    },
+    "加载牌谱失败" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to load hand history"
+          }
+        }
+      }
+    },
+    "勇敢的诈唬！在合适的时机施加极大的压力，逼迫对手弃掉中等牌力的牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brave bluff! Applying maximum pressure at the right time forces opponents to fold medium-strength hands."
+          }
+        }
+      }
+    },
+    "即使在大盲位，不抵抗也是一种防守策略，保留筹码去打更优质的手牌。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even in the BB, folding is a valid defense. Save your chips for better hands."
+          }
+        }
+      }
+    },
+    "即便在偷盲位，也没有必要强行用垃圾牌入池。明智的选择。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even in a steal position, there is no need to force play with a trash hand. A wise choice."
+          }
+        }
+      }
+    },
+    "即便在庄家位，也没有必要强行用垃圾牌入池。明智的选择。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even on the button, there's no need to force a trash hand. Wise choice."
+          }
+        }
+      }
+    },
+    "发牌中..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dealing..."
+          }
+        }
+      }
+    },
+    "取消" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "只有在体力值为0时才可以免费领取" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free stamina can only be claimed when your stamina is 0."
+          }
+        }
+      }
+    },
+    "同步失败：\\(error.localizedDescription)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync failed: \\(error.localizedDescription)"
+          }
+        }
+      }
+    },
+    "同步失败：%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync failed: %@"
+          }
+        }
+      }
+    },
+    "同花" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flush"
+          }
+        }
+      }
+    },
+    "同花大牌在有利位置可以跟注或 3-bet，但要注意控制翻后的底池大小。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suited broadways in position can call or 3-bet, but be careful with pot control postflop."
+          }
+        }
+      }
+    },
+    "同花顺" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Straight Flush"
+          }
+        }
+      }
+    },
+    "名次：第\\(record.rank)名" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(record.rank) Place"
+          }
+        }
+      }
+    },
+    "名次：第%lld名" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Place"
+          }
+        }
+      }
+    },
+    "商品加载失败：\\(error.localizedDescription)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to load product: \\(error.localizedDescription)"
+          }
+        }
+      }
+    },
+    "商品加载失败：%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to load products: %@"
+          }
+        }
+      }
+    },
+    "商品未找到，请检查 App Store Connect 配置" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product not found, please check App Store Connect configuration"
+          }
+        }
+      }
+    },
+    "四条" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Four of a Kind"
+          }
+        }
+      }
+    },
+    "在后位或小盲位，通过加注向盲注施压。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply pressure to the blinds by raising from late position or the small blind."
+          }
+        }
+      }
+    },
+    "在大盲位面对偷盲加注，决定跟注、3Bet或弃牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decide whether to call, 3Bet, or fold when facing a steal raise in the big blind."
+          }
+        }
+      }
+    },
+    "在按钮位平跟等于把主动权拱手让给大盲，极易被利用位置反打。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flat calling on the button surrenders initiative to the big blind, easily inviting a squeeze play."
+          }
+        }
+      }
+    },
+    "在极佳的底池赔率下弃掉了一手有潜力的好牌，太可惜了。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's a pity to fold a hand with such good potential given the excellent pot odds."
+          }
+        }
+      }
+    },
+    "在短码阶段，只跟注是不好的策略。你应该全押(Push)或者弃牌(Fold)来最大化你的弃牌率。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In the short stack phase, calling is a poor strategy. You should Push or Fold to maximize fold equity."
+          }
+        }
+      }
+    },
+    "在短码阶段拿到可玩性手牌果断全押，可以最大化弃牌率（Fold Equity）。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decisively shoving playable hands in the short stack phase maximizes your Fold Equity."
+          }
+        }
+      }
+    },
+    "在这个位置放弃强牌有点可惜了。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's a pity to fold such a strong hand from this position."
+          }
+        }
+      }
+    },
+    "在这个回报率下跟注或全押是不划算的。长期来看这是负EV的决定。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calling or shoving with these reward odds is unprofitable. It's a negative EV decision in the long run."
+          }
+        }
+      }
+    },
+    "坚果下注太小" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small sizing (strong hand)"
+          }
+        }
+      }
+    },
+    "坚果牌下注太小了！这个面对手很可能愿意支付更大的下注。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sizing is too small with a very strong hand. On this board, opponents may call a larger sizing."
+          }
+        }
+      }
+    },
+    "处理中…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processing..."
+          }
+        }
+      }
+    },
+    "大盲位拿到弱牌盲目反加是资金粉碎机。防守要有度，不要变成情绪化玩家。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blindly re-raising weak hands from the BB is a chip shredder. Defend reasonably; don't play emotionally."
+          }
+        }
+      }
+    },
+    "大盲位有防守折扣，用同花连张或中等牌力跟注看翻牌是正 EV 的打法。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The BB gets a discount. Calling with suited connectors or medium strength hands is a +EV play."
+          }
+        }
+      }
+    },
+    "大盲位防守范围太窄，面对 CO 或按钮位加注弃牌过多，损失了防守价值。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BB defense range is too narrow. Folding too often to CO or Button raises bleeds defensive value."
+          }
+        }
+      }
+    },
+    "大盲位防守范围太窄，面对后位加注弃牌过多，损失了防守价值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your big blind defense range is too narrow. Folding too often to late position raises loses defensive value."
+          }
+        }
+      }
+    },
+    "大盲位面对加注弃牌过多，完全没有捍卫你的强牌范围。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You fold too much from the BB to raises, failing completely to defend your strong range."
+          }
+        }
+      }
+    },
+    "太保守了！在 \\(playerBBs)BB 的深度，这手牌绝对值得全押一搏。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative! At \\(playerBBs) BBs deep, this hand is absolutely worth a shove."
+          }
+        }
+      }
+    },
+    "太保守了！在 %lldBB 的深度，这手牌绝对值得全押一搏。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative! At %lld BBs deep, this hand is absolutely worth shoving."
+          }
+        }
+      }
+    },
+    "太疯狂了！用弱牌在盲注位全下是极其危险的。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too crazy! Shoving a weak hand from the blinds is extremely dangerous."
+          }
+        }
+      }
+    },
+    "太紧了！你放弃了一手优质牌，这里绝对应该 3Bet。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too tight! You folded a premium hand; this is an absolute mandatory 3Bet spot."
+          }
+        }
+      }
+    },
+    "奖励体力值：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward Stamina: %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "奖励体力值：%lld"
+          }
+        }
+      }
+    },
+    "奖励积分: \\(record.reward)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward Points: \\(record.reward)"
+          }
+        }
+      }
+    },
+    "奖励积分: %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward Points: %lld"
+          }
+        }
+      }
+    },
+    "奖励积分：\\(record.reward)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward Points: \\(record.reward)"
+          }
+        }
+      }
+    },
+    "奖励积分：%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward Points: %lld"
+          }
+        }
+      }
+    },
+    "奖金: \\(record.reward)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward: \\(record.reward)"
+          }
+        }
+      }
+    },
+    "奖金: %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward: %lld"
+          }
+        }
+      }
+    },
+    "奖金：\\(record.reward)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward: \\(record.reward)"
+          }
+        }
+      }
+    },
+    "奖金：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reward: %lld"
+          }
+        }
+      }
+    },
+    "好弃牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good Fold"
+          }
+        }
+      }
+    },
+    "好弃牌！懂得在落后时及时止损是赢家的必备素质。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good fold! Knowing when to cut losses while behind is essential for a winner."
+          }
+        }
+      }
+    },
+    "好弃牌！面对前位加注，边缘牌和垃圾牌果断弃掉是赢家的素养。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good fold! Folding marginal and junk hands against early position raises is the mark of a winner."
+          }
+        }
+      }
+    },
+    "好弃牌。保留短码等待更好的起手牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good fold. Preserve your short stack for a better starting hand."
+          }
+        }
+      }
+    },
+    "好的诈唬时机" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good Bluff Opportunity"
+          }
+        }
+      }
+    },
+    "完整的6人桌SNG策略模拟。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A complete 6-max SNG strategy simulation."
+          }
+        }
+      }
+    },
+    "完美！拿到顶级手牌不仅要防守，更要 3Bet 扩大底池让对手付出代价。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfect! With a premium hand, don't just defend—3Bet to bloat the pot and make your opponent pay."
+          }
+        }
+      }
+    },
+    "小对子或同花连张如果在有利位置，要么加注偷盲，要么弃牌，平跟是下策。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small pairs or suited connectors in position should either raise to steal or fold. Limping is suboptimal."
+          }
+        }
+      }
+    },
+    "小底分/大底分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SB/BB"
+          }
+        }
+      }
+    },
+    "已取消购买" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase cancelled"
+          }
+        }
+      }
+    },
+    "已获得%@练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received %@ practice points"
+          }
+        }
+      }
+    },
+    "已获得%lld体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received %lld stamina points"
+          }
+        }
+      }
+    },
+    "已获得%lld练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received %lld practice points"
+          }
+        }
+      }
+    },
+    "已领取%@练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claimed %@ practice points"
+          }
+        }
+      }
+    },
+    "已领取%lld体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claimed %lld stamina points"
+          }
+        }
+      }
+    },
+    "已领取%lld练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claimed %lld practice points"
+          }
+        }
+      }
+    },
+    "平跟等于把主动权拱手让给大盲，极易被大盲玩家反打。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limping hands over the initiative to the big blind, making you highly exploitable to a counter-attack."
+          }
+        }
+      }
+    },
+    "底分 L\\(history.blindLevel) \\(history.sbAmount)/\\(history.bbAmount) 前分 \\(history.anteAmount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Base Scores L\\(history.blindLevel) \\(history.sbAmount)/\\(history.bbAmount) Pre-score \\(history.anteAmount)"
+          }
+        }
+      }
+    },
+    "底分 L%lld %lld/%lld 前分 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Base Scores L%lld %lld/%lld Pre-score %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "底分 L%1$lld %2$lld/%3$lld 前分 %4$lld"
+          }
+        }
+      }
+    },
+    "底分升级！级别 %lld: %lld/%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blinds Up! Level %lld: %lld/%lld"
+          }
+        }
+      }
+    },
+    "座位" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seat"
+          }
+        }
+      }
+    },
+    "座位\\(p.seat)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seat \\(p.seat)"
+          }
+        }
+      }
+    },
+    "座位%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seat %lld"
+          }
+        }
+      }
+    },
+    "开始游戏" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Game"
+          }
+        }
+      }
+    },
+    "开始训练" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Training"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始训练"
+          }
+        }
+      }
+    },
+    "开始训练将消耗 1 点体力值。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting training costs 1 stamina."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始训练将消耗 1 点体力值。"
+          }
+        }
+      }
+    },
+    "弃牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fold"
+          }
+        }
+      }
+    },
+    "强牌投入偏小" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small sizing (strong hand)"
+          }
+        }
+      }
+    },
+    "强牌被动" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passive Value"
+          }
+        }
+      }
+    },
+    "当前体力值：%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Stamina: %lld"
+          }
+        }
+      }
+    },
+    "当前练习积分：\\(PlayerProfileManager.shared.profile.points)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Practice Points: \\(PlayerProfileManager.shared.profile.points)"
+          }
+        }
+      }
+    },
+    "当前练习积分：%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Practice Points: %@"
+          }
+        }
+      }
+    },
+    "当前练习积分：%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Practice Points: %lld"
+          }
+        }
+      }
+    },
+    "很好，没有因为舍不得已经投入的大盲注而陷入“沉没成本”陷阱。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good job avoiding the 'sunk cost' fallacy over your posted big blind."
+          }
+        }
+      }
+    },
+    "很好的 3Bet 尺度！你利用优质手牌建立了足够的底池并隔离了对手。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good 3Bet sizing! You built a solid pot with a premium hand and isolated your opponent."
+          }
+        }
+      }
+    },
+    "很好的偷盲加注！在偷盲位置，用宽范围施压是极佳的策略。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Great steal raise! Applying pressure with a wide range from a steal position is an excellent strategy."
+          }
+        }
+      }
+    },
+    "很好的偷盲加注！在庄家或小盲位，用宽范围施压是极佳的策略。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Great steal raise! Applying pressure with a wide range from the button or small blind is an excellent strategy."
+          }
+        }
+      }
+    },
+    "很好的极化下注，要么是坚果要么是空气，让对手非常难受。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Great polarized sizing—either very strong or a bluff—putting the opponent in a tough spot."
+          }
+        }
+      }
+    },
+    "很好的纪律性。不强行偷盲，避免了被紧凶玩家剥削。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Great discipline. Not forcing a steal prevents you from being exploited by tight-aggressive players."
+          }
+        }
+      }
+    },
+    "很好的防守反击。让偷盲者陷入困境，这才是盲注防守的核心。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Great defensive counter-attack. Putting stealers in tough spots is the core of blind defense."
+          }
+        }
+      }
+    },
+    "快进中..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fast-forwarding..."
+          }
+        }
+      }
+    },
+    "总分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Points"
+          }
+        }
+      }
+    },
+    "总场次" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Games"
+          }
+        }
+      }
+    },
+    "总局数" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Games"
+          }
+        }
+      }
+    },
+    "总计桌上玩家: %lld 人" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total players: %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "总计桌上玩家: %lld 人"
+          }
+        }
+      }
+    },
+    "感谢支持！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your support!"
+          }
+        }
+      }
+    },
+    "感谢支持！已获得100点体力值" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your support! Received 100 stamina."
+          }
+        }
+      }
+    },
+    "感谢支持！已获得1000点体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanks for your support! 1000 Stamina received."
+          }
+        }
+      }
+    },
+    "感谢支持！已赠送10000练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you! You received 10,000 practice points"
+          }
+        }
+      }
+    },
+    "我的初始积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Starting Points"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的初始积分"
+          }
+        }
+      }
+    },
+    "我的练习积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Practice Points"
+          }
+        }
+      }
+    },
+    "战绩回顾" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hand History"
+          }
+        }
+      }
+    },
+    "手牌偏弱，这里跟注前位加注会让你在翻后面临困难，建议弃牌。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand is too weak. Calling an early position raise here will put you in a tough spot post-flop. Recommend folding."
+          }
+        }
+      }
+    },
+    "手牌很强，只选择跟注过于被动了。这里应该 3Bet 来压榨价值并夺取主动权。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand is very strong; just calling is too passive. You should 3Bet to extract value and seize the initiative."
+          }
+        }
+      }
+    },
+    "手牌胜率太低了，这种回报率下强行入池就是在白白送积分。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand equity is too low. Forcing a call with these reward odds is just giving away points."
+          }
+        }
+      }
+    },
+    "手牌详情" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hand Details"
+          }
+        }
+      }
+    },
+    "手牌这么强，你应该加注建立底池。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With such a strong hand, you should raise to build the pot."
+          }
+        }
+      }
+    },
+    "打得太紧" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too Tight"
+          }
+        }
+      }
+    },
+    "打得太紧了，好牌也要敢于出手积累优势。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing too tight. You must be willing to build the pot with strong hands."
+          }
+        }
+      }
+    },
+    "打法过于保守，放弃了巨大的价值获取机会，这在长期是不可持续的。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative. Giving up massive value opportunities is unsustainable in the long run."
+          }
+        }
+      }
+    },
+    "投入 \\(amount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet \\(amount)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下注 \\(amount)"
+          }
+        }
+      }
+    },
+    "投入 %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bet %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投入 %lld"
+          }
+        }
+      }
+    },
+    "拿到 AA/KK 时翻前仅平跟，未能通过 3-bet 隔离，多人池胜率会大幅下降。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flat calling AA/KK preflop fails to isolate. Multi-way pot equity drops significantly."
+          }
+        }
+      }
+    },
+    "拿到 KK/AA 过于保守，实际上翻前你应该更激进地进行加注或反加。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing KK/AA too passively. You should be much more aggressive preflop with raises and 3-bets."
+          }
+        }
+      }
+    },
+    "拿到中等对子跟注寻求暗三条是可以的，但要注意筹码深度是否提供足够的隐含赔率。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set-mining with a medium pair is fine, but ensure the stack depth offers sufficient implied odds."
+          }
+        }
+      }
+    },
+    "拿到优质手牌过于保守，没有把握住筹码翻倍的绝佳机会。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative with a premium hand. You missed a perfect opportunity to double up."
+          }
+        }
+      }
+    },
+    "拿到好牌就要主动出击！过牌跟注容易让听牌便宜过关。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take the initiative with good hands! Checking and calling allows draws to realize their equity cheaply."
+          }
+        }
+      }
+    },
+    "拿到小牌且非同色，即便赔率再好也不应跟注。防守范围太宽容易导致翻后破产。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offsuit small cards shouldn't be called despite good odds. Defending too wide leads to postflop disaster."
+          }
+        }
+      }
+    },
+    "拿到强牌时翻前仅平跟，未能通过 3-bet 隔离成单挑底池，会导致多人池胜率下降。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flat calling with a strong hand fails to isolate via a 3-bet, reducing your equity in a multi-way pot."
+          }
+        }
+      }
+    },
+    "按钮位过于保守！未利用位置优势放宽同花连张或小对子。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative on the button! You didn't leverage position to widen your range for suited connectors or small pairs."
+          }
+        }
+      }
+    },
+    "摊牌！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Showdown!"
+          }
+        }
+      }
+    },
+    "支持开发者" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support the developer"
+          }
+        }
+      }
+    },
+    "支持开发者 - 赠1000体力" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support Developer - Get 1000 Stamina"
+          }
+        }
+      }
+    },
+    "支持开发者 (\\(p.displayPrice))" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support the developer (\\(p.displayPrice))"
+          }
+        }
+      }
+    },
+    "支持开发者 (%@)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support the developer (%@)"
+          }
+        }
+      }
+    },
+    "支持开发者 (%@) - 赠1000体力" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support Developer (%@) - Get 1000 Stamina"
+          }
+        }
+      }
+    },
+    "收藏手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite Hands"
+          }
+        }
+      }
+    },
+    "教练点评" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coach's Comment"
+          }
+        }
+      }
+    },
+    "新手期不要盲目模仿顶尖高手的漂移或诈唬打法，用边缘牌 3-bet 容易失控。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As a beginner, don't blindly copy high-stakes bluffs. 3-betting marginal hands easily spirals out of control."
+          }
+        }
+      }
+    },
+    "无效动作" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Action"
+          }
+        }
+      }
+    },
+    "无明显标签" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "明白" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got it"
+          }
+        }
+      }
+    },
+    "昨天" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yesterday"
+          }
+        }
+      }
+    },
+    "暂无收藏" : {
+
+    },
+    "暂无牌谱" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Hand History"
+          }
+        }
+      }
+    },
+    "暂无记录" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Records"
+          }
+        }
+      }
+    },
+    "未知" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "本场牌谱" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match History"
+          }
+        }
+      }
+    },
+    "本局教练点评" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coach Comments"
+          }
+        }
+      }
+    },
+    "本手牌点评" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hand Review"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本手牌点评"
+          }
+        }
+      }
+    },
+    "标准持续下注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard continuation play"
+          }
+        }
+      }
+    },
+    "标准持续施压" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard continuation play"
+          }
+        }
+      }
+    },
+    "标准的价值加注。你在偷盲位拿到强牌，加注理所应当。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard value raise. Raising a strong hand from a steal position is the right move."
+          }
+        }
+      }
+    },
+    "标准的价值加注。你在后位拿到强牌，加注理所应当。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard value raise. Raising a strong hand from late position is the right move."
+          }
+        }
+      }
+    },
+    "标准的防守跟注。你在大盲位有很好的赔率，看看翻牌是可以的。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard defense call. You have great odds from the BB; seeing a flop is fine."
+          }
+        }
+      }
+    },
+    "模拟SNG后期单挑阶段，双方以20BB开始对抗。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simulate late-stage SNG Heads-Up play, both starting with 20BB."
+          }
+        }
+      }
+    },
+    "欢迎练习，%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to practice, %@"
+          }
+        }
+      }
+    },
+    "正在加载商品…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading products..."
+          }
+        }
+      }
+    },
+    "正在发放体力值…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issuing stamina..."
+          }
+        }
+      }
+    },
+    "正在发放练习积分…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Granting practice points..."
+          }
+        }
+      }
+    },
+    "正在发起购买…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Initiating purchase..."
+          }
+        }
+      }
+    },
+    "正在同步购买…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syncing purchases..."
+          }
+        }
+      }
+    },
+    "正在完成交易…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completing transaction..."
+          }
+        }
+      }
+    },
+    "正在验证交易…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verifying transaction..."
+          }
+        }
+      }
+    },
+    "正确的弃牌，避免了在不利位置用弱牌对抗紧凶玩家的加注。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct fold, avoiding playing a weak hand out of position against a tight-aggressive raiser."
+          }
+        }
+      }
+    },
+    "正确的弃牌。牌太差不值得偷盲。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct fold. The hand is too weak to attempt a steal."
+          }
+        }
+      }
+    },
+    "正确的弃牌。面对加注，果断放弃垃圾牌。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct fold. Decisively fold trash hands when facing a raise."
+          }
+        }
+      }
+    },
+    "正确的隔离策略。利用位置优势，迫使盲注玩家放弃他们的底池权益。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correct isolation strategy. Using positional advantage to force the blinds to forfeit their equity."
+          }
+        }
+      }
+    },
+    "比赛开始！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tournament Started!"
+          }
+        }
+      }
+    },
+    "比赛配置" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tournament Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比赛配置"
+          }
+        }
+      }
+    },
+    "毫无逻辑的全下。面对加注，用弱牌直接拼命会导致快速破产。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An illogical shove. Risking everything with a weak hand facing a raise will quickly lead to ruin."
+          }
+        }
+      }
+    },
+    "河牌圈" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "River"
+          }
+        }
+      }
+    },
+    "消耗体力值：%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cost Stamina: %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "消耗体力值：%lld"
+          }
+        }
+      }
+    },
+    "漂亮的 3Bet！你拿到了优质手牌，进行 3Bet 获取价值并夺取主动权是非常正确的决定。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautiful 3Bet! You hold a premium hand, 3Betting for value and taking initiative is absolutely correct."
+          }
+        }
+      }
+    },
+    "漂亮的 Push！在 \\(playerBBs)BB 的深度，拿到有胜率的手牌全押施压是正确的。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice Push! At \\(playerBBs) BBs deep, shoving with a hand that has good equity is correct."
+          }
+        }
+      }
+    },
+    "漂亮的 Push！在 %lldBB 的深度，拿到有胜率的手牌全押施压是正确的。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice Push! At %lld BBs deep, shoving with a hand that has good equity is correct."
+          }
+        }
+      }
+    },
+    "漂亮的价值下注" : {
+
+    },
+    "漂亮的持续下注！利用翻前的主动权拿下了总分。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nice continuation play—using preflop initiative to take down the total points."
+          }
+        }
+      }
+    },
+    "激进的防守策略！这手牌有一定的胜率，全下可以最大化你的弃牌率。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An aggressive defensive strategy! This hand has some equity, and shoving maximizes your fold equity."
+          }
+        }
+      }
+    },
+    "玩家" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player"
+          }
+        }
+      }
+    },
+    "%lld玩家(%)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld players"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld玩家(%)"
+          }
+        }
+      }
+    },
+    "玩家主页" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player Profile"
+          }
+        }
+      }
+    },
+    "玩家配置" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player Setup"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "玩家配置"
+          }
+        }
+      }
+    },
+    "理智的弃牌。牌力太弱时不要被短码焦虑冲昏头脑强行全下。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rational fold. Don't let short-stack anxiety push you to shove a weak hand."
+          }
+        }
+      }
+    },
+    "理智的跟注防守。但要注意，翻后如果没有击中强牌，不要盲目纠缠。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rational call defense. Just remember: if you miss the flop, don't blindly stick around."
+          }
+        }
+      }
+    },
+    "用 AA/KK 在大盲位只跟注，给了加注玩家太好的隐含赔率去击中两对或三条。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just calling with AA/KK in the big blind gives the raiser great implied odds to hit two pair or a set."
+          }
+        }
+      }
+    },
+    "用 AA/KK 在大盲位只跟注，给了按钮位玩家太好的隐含赔率去击中两对或三条。" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flatting AA/KK from the BB gives the button incredible implied odds to hit two pair or a set."
+          }
+        }
+      }
+    },
+    "用中等牌力或同花连张全下作为半诈唬，具有一定的弃牌率，但风险较高。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoving medium strength hands or suited connectors as a semi-bluff generates fold equity, but it carries high risk."
+          }
+        }
+      }
+    },
+    "用垃圾牌偷盲一旦被跟注，翻后处于不利位置的决策将极为困难。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stealing with trash hands leads to extremely difficult postflop decisions out of position if called."
+          }
+        }
+      }
+    },
+    "用顶级强牌直接全下！这是非常激进但也非常有效的价值榨取。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shoving directly with a premium hand! A highly aggressive but effective way to extract value."
+          }
+        }
+      }
+    },
+    "皇家同花顺" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Royal Flush"
+          }
+        }
+      }
+    },
+    "盲注位跟注过于被动，你放弃了翻前夺取主动权并赢下盲注的最好机会。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calling from the blinds is too passive. You gave up the best chance to seize initiative and win the blinds preflop."
+          }
+        }
+      }
+    },
+    "盲注位防守强牌过于被动。慢打强牌时机不对，翻后在不利位置会很难受。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defending strong hands from the blinds too passively. Slow-playing here is ill-timed and tough to play postflop OOP."
+          }
+        }
+      }
+    },
+    "短码时不要用跟注消耗自己所剩无几的筹码，请采用 Push/Fold 策略。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't bleed your remaining chips by calling when short-stacked. Stick to a Push/Fold strategy."
+          }
+        }
+      }
+    },
+    "短码阶段(8-15BB)的全押与弃牌决策。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push/Fold decisions in the short stack stage (8-15BB)."
+          }
+        }
+      }
+    },
+    "确认下注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Bet"
+          }
+        }
+      }
+    },
+    "确认加注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Raise"
+          }
+        }
+      }
+    },
+    "积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Points"
+          }
+        }
+      }
+    },
+    "第 %lld 名" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Place"
+          }
+        }
+      }
+    },
+    "第\\(rank)名" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\(rank) Place"
+          }
+        }
+      }
+    },
+    "第%@名" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Place"
+          }
+        }
+      }
+    },
+    "第%lld名" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Place"
+          }
+        }
+      }
+    },
+    "第一名" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1st Place"
+          }
+        }
+      }
+    },
+    "第一名！获得%@体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1st Place! +%@ stamina"
+          }
+        }
+      }
+    },
+    "第一名！获得%lld体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1st Place! +%lld stamina"
+          }
+        }
+      }
+    },
+    "第二名！获得 \\(1) 体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2nd Place! +\\(1) stamina"
+          }
+        }
+      }
+    },
+    "第二名！获得%@体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2nd Place! +%@ stamina"
+          }
+        }
+      }
+    },
+    "第二名！获得%lld体力值" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2nd Place! +%lld stamina"
+          }
+        }
+      }
+    },
+    "筹码深度不够时仍盲目跟注，不仅没有弃牌率，翻后也很难操作。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blindly calling without sufficient stack depth offers zero fold equity and makes postflop play difficult."
+          }
+        }
+      }
+    },
+    "级别" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level"
+          }
+        }
+      }
+    },
+    "级别 %lld: %lld/%lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level %lld: %lld/%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "级别 %lld: %lld/%lld"
+          }
+        }
+      }
+    },
+    "级别: \\(gameManager.tournamentState.currentLevel)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level: \\(gameManager.tournamentState.currentLevel)"
+          }
+        }
+      }
+    },
+    "级别: %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Level: %lld"
+          }
+        }
+      }
+    },
+    "练习场" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice"
+          }
+        }
+      }
+    },
+    "练习开始！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice Started!"
+          }
+        }
+      }
+    },
+    "练习积分: \\(profileManager.profile.points)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice Points: \\(profileManager.profile.points)"
+          }
+        }
+      }
+    },
+    "练习积分: %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice Points: %lld"
+          }
+        }
+      }
+    },
+    "练习积分不足" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Enough Practice Points"
+          }
+        }
+      }
+    },
+    "练习积分不足，明天可以继续领积分" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insufficient practice points. You can claim more tomorrow."
+          }
+        }
+      }
+    },
+    "练习结束" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice Ended"
+          }
+        }
+      }
+    },
+    "练习记录" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice History"
+          }
+        }
+      }
+    },
+    "缺乏位置意识，在不利位置用垃圾牌盲目全下，被跟注的风险极高。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lacking positional awareness. Blindly shoving trash hands out of position carries a huge risk of being called."
+          }
+        }
+      }
+    },
+    "缺乏逻辑支撑的 3-bet，对手如果 4-bet 你只能弃牌，白白损失大量筹码。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An illogical 3-bet. If the opponent 4-bets, you must fold, wasting a ton of chips for nothing."
+          }
+        }
+      }
+    },
+    "翻前入池范围太宽，建议新手先采用 ABC 打法，专注 99-AA 及 AK/AQ/AJ。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your preflop VPIP is too wide. Beginners should stick to ABC poker, focusing on 99-AA and AK/AQ/AJ."
+          }
+        }
+      }
+    },
+    "翻前面对 4-bet 弃牌过频，或者用边缘牌 3-bet 都是负 EV 行为，请收紧你的范围。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folding too often to 4-bets, or 3-betting marginal hands, are both -EV. Tighten your range."
+          }
+        }
+      }
+    },
+    "翻牌前" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preflop"
+          }
+        }
+      }
+    },
+    "翻牌圈" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flop"
+          }
+        }
+      }
+    },
+    "翻牌面的持续下注非常标准，给对手施加了足够的压力。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard continuation bet on the flop, putting adequate pressure on the opponent."
+          }
+        }
+      }
+    },
+    "葫芦" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full House"
+          }
+        }
+      }
+    },
+    "行动" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
+          }
+        }
+      }
+    },
+    "训练手牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Training Hands"
+          }
+        }
+      }
+    },
+    "该场战绩生成于旧版本，未关联牌谱" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This record is from an older version, no hand history attached."
+          }
+        }
+      }
+    },
+    "负EV跟注/全押" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negative EV Call/All-in"
+          }
+        }
+      }
+    },
+    "购买失败：\\(error.localizedDescription)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase failed: \\(error.localizedDescription)"
+          }
+        }
+      }
+    },
+    "购买失败：%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase failed: %@"
+          }
+        }
+      }
+    },
+    "购买待处理…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase pending..."
+          }
+        }
+      }
+    },
+    "赢家: \\(winner.name) +\\(pot)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winner: \\(winner.name) +\\(pot)"
+          }
+        }
+      }
+    },
+    "赢家: %@ +%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winner: %@ +%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "赢家: %@ +%lld"
+          }
+        }
+      }
+    },
+    "赢得" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Win"
+          }
+        }
+      }
+    },
+    "起始盲注级别" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting Blind Level"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起始盲注级别"
+          }
+        }
+      }
+    },
+    "跛入（Limp）不是好习惯。如果要打这手牌，你应该加注来偷盲。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limping is a bad habit. If you want to play this hand, you should raise to steal the blinds."
+          }
+        }
+      }
+    },
+    "跟投 \\(amount)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call \\(amount)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跟注 \\(amount)"
+          }
+        }
+      }
+    },
+    "跟投 %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call %lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跟注 %lld"
+          }
+        }
+      }
+    },
+    "跟注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call"
+          }
+        }
+      }
+    },
+    "跟注 \\(player.currentBet)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call \\(player.currentBet)"
+          }
+        }
+      }
+    },
+    "跟注 %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call %lld"
+          }
+        }
+      }
+    },
+    "跟注是可以接受的。手牌有一定可玩性，但不值得 3Bet 冒险。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calling is acceptable. The hand has some playability but isn't worth risking a 3Bet."
+          }
+        }
+      }
+    },
+    "跳过本局" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip Hand"
+          }
+        }
+      }
+    },
+    "转牌圈" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn"
+          }
+        }
+      }
+    },
+    "轮到你" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your turn"
+          }
+        }
+      }
+    },
+    "轮到你（需跟投 \\(amount)）" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Turn (Call \\(amount))"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轮到你（需跟注 \\(amount)）"
+          }
+        }
+      }
+    },
+    "轮到你（需跟投 %lld）" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Turn (Call %lld)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轮到你（需跟注 %lld）"
+          }
+        }
+      }
+    },
+    "轮到你（需跟注 \\(amountToCall)）" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Turn (Call \\(amountToCall))"
+          }
+        }
+      }
+    },
+    "轮到你（需跟注 %@）" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your turn (Call %@)"
+          }
+        }
+      }
+    },
+    "轮到你（需跟注 %lld）" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your turn (Call %lld)"
+          }
+        }
+      }
+    },
+    "输入新名字" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter new name"
+          }
+        }
+      }
+    },
+    "输入新昵称" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter new name"
+          }
+        }
+      }
+    },
+    "过于保守！在偷盲位应该放宽同花连张或小对子的入池范围。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Too conservative! You should widen your range with suited connectors or small pairs in a steal position."
+          }
+        }
+      }
+    },
+    "过于松的跟注" : {
+
+    },
+    "过牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check"
+          }
+        }
+      }
+    },
+    "还没有战绩，去打一把 SNG 策略模拟器吧！" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No records yet, go play a SNG Strategy Simulator!"
+          }
+        }
+      }
+    },
+    "这个全押有点松。虽然筹码不多，但这手牌赢率太低，建议等待更好的时机。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This shove is a bit loose. Even with a short stack, this hand has too little equity. Recommend waiting for a better spot."
+          }
+        }
+      }
+    },
+    "这就是扑克，你做出了正确的决定，但运气站在了对手那边。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's poker. You made the right decision, but luck favored the opponent."
+          }
+        }
+      }
+    },
+    "这手牌你应该 3Bet 获取价值，而不是只跟注。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You should 3Bet this hand for value instead of just calling."
+          }
+        }
+      }
+    },
+    "这手牌即使被跟注也有很好的胜率，此时弃牌属于负 EV 行为。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This hand has good equity even if called. Folding here is a -EV play."
+          }
+        }
+      }
+    },
+    "这手牌太差了，即使有底池赔率也不建议跟注。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This hand is too bad. Even with pot odds, calling is not recommended."
+          }
+        }
+      }
+    },
+    "这手牌打得不错，没有什么明显的问题。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Well played, no obvious mistakes."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这手牌打得不错，没有什么明显的问题。"
+          }
+        }
+      }
+    },
+    "这手牌牌力偏弱，即使在偷盲位也建议弃牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This hand is too weak; even in a steal position, folding is recommended."
+          }
+        }
+      }
+    },
+    "这手牌牌力偏弱，即使在后位也建议弃牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This hand is too weak; even in late position, folding is recommended."
+          }
+        }
+      }
+    },
+    "这种半诈唬加注很好。就算被跟注，翻后你依然有不错的操作空间和胜率。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This semi-bluff raise is great. Even if called, you still have good playability and equity postflop."
+          }
+        }
+      }
+    },
+    "这里可以考虑打得更有侵略性一些，不要错失榨取价值的机会。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consider playing more aggressively here to avoid missing out on extracting value."
+          }
+        }
+      }
+    },
+    "追牌需要考虑回报率。这里的赔率不足以支撑你的听牌或弱牌，果断弃牌才是正解。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chasing draws requires good reward odds. The odds here don't justify calling with your draw or weak hand; folding is the right play."
+          }
+        }
+      }
+    },
+    "选择一个模式开始提升你的策略" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a mode to start improving your strategy"
+          }
+        }
+      }
+    },
+    "避开了一个潜在的陷阱，省下的积分就是赚到的积分。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You avoided a potential trap. Points saved are points gained."
+          }
+        }
+      }
+    },
+    "重大失误！你放弃了一手顶级牌。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Major mistake! You folded a premium hand."
+          }
+        }
+      }
+    },
+    "重新加载商品" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload Products"
+          }
+        }
+      }
+    },
+    "重新开始 1v1 HU 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart 1v1 HU Practice"
+          }
+        }
+      }
+    },
+    "重新开始 SNG 练习" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart SNG Practice"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新开始 SNG 练习"
+          }
+        }
+      }
+    },
+    "重要申明" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Important Notice"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重要申明"
+          }
+        }
+      }
+    },
+    "需跟注" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To call"
+          }
+        }
+      }
+    },
+    "非常坚决的 Push。处于短码时，避免被动跟注，主动出击是最好的防守。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Very resolute Push. When short-stacked, avoid passive calls; attacking is the best defense."
+          }
+        }
+      }
+    },
+    "非常暴力的反击！用强牌全下可以立刻给对手施加极大的压力。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A fierce counter-attack! Shoving a strong hand puts immense pressure on your opponent immediately."
+          }
+        }
+      }
+    },
+    "非常棒的 3Bet！面对偷盲，用强牌反击获取价值。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Awesome 3Bet! Counter-attacking a steal with a strong hand for value."
+          }
+        }
+      }
+    },
+    "非常棒的施压！用大牌偷盲，被跟注后在翻后也有极大优势。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Excellent pressure! Stealing with a big hand gives you a massive postflop advantage if called."
+          }
+        }
+      }
+    },
+    "非常理智的弃牌，这个面的赔率已经不适合继续玩下去了。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Very rational fold. The odds on this board no longer justify continuing."
+          }
+        }
+      }
+    },
+    "面对不利局势果断弃牌，在短码阶段每一分筹码都很宝贵。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decisive fold in an unfavorable spot. Every chip is precious when short-stacked."
+          }
+        }
+      }
+    },
+    "面对前位加注，拿到强牌果断 3Bet 是正确的，不要给对手看便宜翻牌的机会。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When facing an early position raise, 3Betting a strong hand is correct. Don't give your opponents a cheap flop."
+          }
+        }
+      }
+    },
+    "面对前位加注，练习你的3Bet决策。附带教练点评。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Practice your 3Bet decisions facing early position raises. Coach comments included."
+          }
+        }
+      }
+    },
+    "面对加注弃牌过频，未能利用你的强牌范围捍卫底池。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You fold too frequently to raises, failing to defend the pot with your strong range."
+          }
+        }
+      }
+    },
+    "面对大盲注，用可玩性强的手牌进行偷盲是非常标准的打法。" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Against the big blind, stealing with a playable hand is a very standard move."
+          }
+        }
+      }
+    },
+    "面对松凶玩家的偷盲加注弃掉了坚果牌，这是对筹码的严重浪费！" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folding a monster hand to a loose-aggressive stealer is a severe waste of chips!"
+          }
+        }
+      }
+    },
+    "顺子" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Straight"
+          }
+        }
+      }
+    },
+    "首页" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "高牌" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High Card"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,104 @@
+name: TexasPoker
+options:
+  bundleIdPrefix: com.zheng.texaspoker
+  deploymentTarget:
+    iOS: "16.0"
+    macOS: "13.0"
+  xcodeVersion: "15.0"
+
+settings:
+  base:
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.9"
+    GENERATE_INFOPLIST_FILE: YES
+    INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+    INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+    INFOPLIST_KEY_UILaunchScreen_Generation: YES
+    INFOPLIST_KEY_UILaunchScreen_UIColorName: "SplashBackground"
+    INFOPLIST_KEY_UILaunchScreen_UIImageName: "SplashLogo"
+    INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+    INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+    CODE_SIGN_IDENTITY: "Apple Development"
+    CODE_SIGN_STYLE: Automatic
+    DEVELOPMENT_TEAM: B7AU36394F
+    PROVISIONING_PROFILE_SPECIFIER: ""
+    CODE_SIGNING_REQUIRED: YES
+    CODE_SIGNING_ALLOWED: YES
+
+targets:
+  TexasPoker:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.zheng.texaspoker
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        SWIFT_EMIT_LOC_STRINGS: YES
+        LD_RUNPATH_SEARCH_PATHS: "$(inherited) @executable_path/Frameworks"
+        ENABLE_PREVIEWS: YES
+
+  TexasPokerTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Tests
+        type: group
+    dependencies:
+      - target: TexasPoker
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.zheng.texaspoker.tests
+        SWIFT_EMIT_LOC_STRINGS: YES
+        LD_RUNPATH_SEARCH_PATHS: "$(inherited) @executable_path/Frameworks @loader_path/Frameworks"
+
+  TexasPokerMac:
+    type: application
+    platform: macOS
+    sources:
+      - path: Sources
+      - path: Resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.zheng.texaspoker.mac
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        SWIFT_EMIT_LOC_STRINGS: YES
+        LD_RUNPATH_SEARCH_PATHS: "$(inherited) @executable_path/../Frameworks"
+        ENABLE_PREVIEWS: YES
+        COMBINE_HIDPI_IMAGES: YES
+
+schemes:
+  TexasPoker:
+    build:
+      targets:
+        TexasPoker: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release
+
+  TexasPokerMac:
+    build:
+      targets:
+        TexasPokerMac: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release

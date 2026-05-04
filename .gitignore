@@ -1,0 +1,18 @@
+.DS_Store
+
+## Xcode / SwiftPM
+DerivedData/
+build/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.swp
+xcuserdata/
+
+## Rust (tooling)
+Tools/gto-tablegen/target/
+
+## Logs / temporary files
+*.log
+out.txt

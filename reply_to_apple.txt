@@ -1,0 +1,29 @@
+Hello Apple Review Team,
+
+Thank you for your feedback. We have submitted a new version of the app to address the issues you raised and made several adjustments to clarify the app's purpose. 
+
+First, to better reflect that this is purely an educational training tool, we have renamed the app to "SNG Simulator" and changed all in-game currency terminology from "coins" to "practice points".
+
+1. Regarding Guideline 2.3.6 (Age Rating & Simulated Gambling):
+We have updated our age rating selections in App Store Connect to select "Frequent" for "Simulated Gambling" as you requested.
+
+However, we want to strongly emphasize that while the app simulates a poker game for training purposes, we DO NOT provide any actual gambling services. We are an individual developer providing an educational simulator.
+- The app is completely offline. Users play strictly against AI bots, not real players.
+- It does NOT offer any real-money gambling.
+- The "practice points" used in the app have absolutely no real-world value. They cannot be transferred, withdrawn, or exchanged for real money or physical prizes.
+- Users can claim practice points entirely for free every day to continue their training.
+- The core loop of the app is purely focused on strategy training, post-game hand analysis, and coach commentary to improve the user's poker skills.
+
+2. Regarding Guideline 2.1(b) (Locating In-App Purchases):
+Please note that our In-App Purchase ("Buy Me a Coffee") is completely unrelated to acquiring "practice points" or gaining any in-game advantage. It is purely a voluntary donation to support the developer.
+
+This IAP can be easily found through the following steps:
+- Option A: On the main game screen, tap the green "+" (plus) icon located at the top of the screen next to the "Practice Points" balance. This will open the Economy Sheet where you can see the "Support Developer (Buy Me a Coffee)" IAP option.
+- Option B: Tap on the Human Player's avatar/card (the Hero seat) to open the Player Profile page. On this page, tap the green "+" (plus) icon next to the points balance to open the same Economy Sheet containing the IAP option.
+
+In this same panel, users can also claim their free daily practice points. The IAP is fully configured for the sandbox environment and is not restricted by storefront or device configurations.
+
+Thank you for your time and assistance in reviewing our app. Please let us know if you need any further information.
+
+Best regards,
+[Your Name/Developer Name]
