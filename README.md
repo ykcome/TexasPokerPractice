@@ -1,4 +1,4 @@
-# TexasPoker (Training App)
+# TexasPokerPractice (Training App)
 
 TexasPoker is an educational poker training and study app built with SwiftUI. It focuses on learning and practice (rules, hand evaluation, probabilities, ranges, and training scenarios) and is **not** a real-money gambling app.
 
